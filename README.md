@@ -1,5 +1,4 @@
 # Google_search_scraper
-# Google Search Scraper
 
 Google Search Scraper is a Python-based tool that allows users to perform Google searches, extract search results, and save them to a CSV file. It uses **Selenium**, **BeautifulSoup**, and **Rich** to provide a user-friendly interface with enhanced search result presentation.
 
